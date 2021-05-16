@@ -1,0 +1,107 @@
+body{
+  font-family: Arial;
+  font-size: small;
+}
+
+#contenedor{
+  padding: 1%;
+}
+
+#cabecera{
+  display: flex;
+  width: 100%;
+  
+}
+
+#cabecera_a{
+}
+
+#cabecera_b{
+  margin-left:   78%
+}
+
+#barra_buscar{
+  width: 40%;
+  padding: 10px;
+  border-radius: 32px;
+  margin-bottom: 12px;
+  outline: 0;
+  border: 1px gray solid;
+}
+
+#botones button{
+  border-radius: 6px;
+  padding: 6px;
+  background-color: #fafafa;
+  	outline: 0;
+		border: solid 1px white ;
+  
+}
+
+#botones button:hover{
+  border: solid 1px gray ;
+ 
+}
+
+
+
+#caja_central{
+  margin-top: 100px;
+  align-content: center;
+  text-align: center;
+  
+}
+
+
+#botones{
+  margin-bottom: 12px;
+}
+
+
+#pie{
+margin-top:  190px;  
+background-color: #f2f2f2;  
+color:#4d4d4d;
+height: 4rem; 
+  
+}
+
+#cabecera a{
+  color:black;
+  text-decoration:none;
+}
+
+#cabecera a:hover{
+  text-decoration:underline;
+}
+
+
+
+#pie a:hover{
+  text-decoration:underline;
+}
+#pie a{
+   text-decoration:none;
+  color:#4d4d4d;
+}
+
+#caja_central a{
+  color: black;
+  text-decoration: none;
+}
+
+#caja_central a:hover{
+  text-decoration: underline;
+}
+
+
+#pie_b{
+ margin-top: 19px; 
+ display: flex; 
+}
+
+#pie_b_b{
+  margin: auto;
+  
+}
+ 

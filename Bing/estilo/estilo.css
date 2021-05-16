@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+
+#botones{
+  display: flex;
+   margin-top: 181.5px;
+  width: 100%;
+}
+
+
+#bLogo{
+  width: 178px;
+  margin-bottom: 
+}
+
+#cabecera{
+  display: flex;
+  padding-left:  106px;
+  color: white;
+  font-size:large;
+}
+
+
+#cabecera a{
+  text-decoration: none;
+  color: white;
+  
+}
+
+#cabecera_a{
+  display: flex;
+}
+
+body{
+
+    font-family: 'Tajawal', sans-serif;
+}
+
+#enlaces{
+  margin-top: 4px;
+  margin-left: 120px
+}
+#cabecera_b{
+  margin-left: 42%;
+  
+}
+
+body {
+  background-image:  url("../images/fondo.jpg");
+  background-size: 100%;
+}
+
+#barra_busqueda{
+  display: flex;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 120px;
+  width: 592px;;
+  height: 52px;
+  border-radius: 9px;
+}
+
+#barra{
+  border: none;
+  background-color: white;
+  width: 70%;
+  height: 40%;
+margin-top: 16px;
+  font-size: x-large;
+  margin-left: 12px
+}
+
+#noticias{
+  
+  display: flex;
+  width:80%;
+  height: 30%;
+  margin:auto;
+ 
+}
+
+
+
+.notis{
+  background-color: rgba(23,23,23,0.8);
+  margin: 12px;
+  color: white;
+}
+
+.notis img{
+  width: 50%;
+}
+
+#pie{
+background-color: #242424;
+color : #e8e8e8;  
+word-spacing: 2px  ;
+  padding: 12px;
+  margin-bottom: -12px;
+  margin-left: -12px;
+  margin-top: -12px;
+  width: 99.7%;
+  text-align: center;
+}
+
+#barra_busqueda img{
+ border-radius: 9px
+}
+
+
+#botones_der{
+  display: flex;
+}
+
+#b1{
+  width: 45px;
+  height: 45px;
+  background-color: #1f1f1f;
+  margin-left:11%;
+  border-radius:6px;  
+}
+
+#botones_der{
+  width:100%;
+}
+
+#b3{
+  width: 45px;
+  height: 45px;
+  background-color: #1f1f1f;
+  margin-left:79%;
+  border-radius:6px;  
+}
+#b4{
+  width: 45px;
+  height: 45px;
+  background-color: #1f1f1f;
+  margin-left:1%;
+  border-radius:6px;  
+}
+
